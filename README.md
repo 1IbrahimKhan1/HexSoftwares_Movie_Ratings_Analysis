@@ -1,5 +1,11 @@
 # HexSoftwares_Movie_Ratings_Analysis
-Data analysis and visualization project using IMDb Top 1000 movies dataset with Python and Power BI dashboard
+Data analysis and visualization project using IMDb Top 1000 movies dataset with Python and Power BI & Streamlit dashboard
+
+# IMDb Movie Ratings Analysis Dashboard
+
+## Live Dashboard
+
+[Click Here to Open Dashboard](https://hexsoftwaresmovieratingsanalysis-h8zfbubqwwbwdgaj5ar3kq.streamlit.app/)
 
 # IMDb Movie Ratings Analysis
 
